@@ -6,7 +6,7 @@
 
 int main()
 {
-    //Code was added in GIT Hub
+    //Code was edited in GIT Hub
     return 0;
 }
 
