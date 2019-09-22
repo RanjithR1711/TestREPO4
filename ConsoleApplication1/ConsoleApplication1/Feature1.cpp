@@ -5,8 +5,8 @@ class Feature1
 	int a;
 	int b;
 
-	int Add()
+	int Add(int x, int y)
 	{
-		return a + b;
+		return x + y;
 	}
 };
