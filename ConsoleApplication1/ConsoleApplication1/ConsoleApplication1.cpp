@@ -10,6 +10,8 @@ int main()
 	// Code was added in VS
 
 	//code to call feature1
+
+	// Code to call Feature2
 	
 	//code to call feature3
     return 0;
