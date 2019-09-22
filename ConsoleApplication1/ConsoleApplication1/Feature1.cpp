@@ -2,10 +2,10 @@
 
 class Feature1
 {
-	int a;
-	int b;
+	float a;
+	float b;
 
-	int Add()
+	float Add()
 	{
 		return a + b;
 	}
