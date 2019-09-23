@@ -9,11 +9,11 @@ int main()
     // Code was edited in GIT Hub
 	// Code was added in VS
 
-	//code to call feature1
+	// Code to call feature1
 
 	// Code to call Feature2
 	
-	//code to call feature3
+	// Code to call feature3
 
 	// Code to call feature4
 	
