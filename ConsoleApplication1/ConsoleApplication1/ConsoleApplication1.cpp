@@ -20,7 +20,6 @@ int main()
 	// Code to call feature5
 
 	// Code to call feature6 added from VS
-
 	
 	// Code to call feature6 added from browser
     return 0;
